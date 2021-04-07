@@ -1,7 +1,7 @@
-import React from "react";
+import React from "react"
 
 let context = {
-    nftToken: null,
+    nftToken: null
 };
 
 export const MyContext = React.createContext(context);
